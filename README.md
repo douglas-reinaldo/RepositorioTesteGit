@@ -17,6 +17,8 @@ fw
 // Apagado
 313
 413
+pinto
+
 
 Minhas vez de alterar algo
 Verifique o quye foi modificado
