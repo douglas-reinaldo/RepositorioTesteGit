@@ -3,7 +3,7 @@ mudanças de readme
 21
 
 1
-// Inserido
+// Adcionado
 412
 fw
 f
@@ -13,12 +13,11 @@ w
 fw
 fw
 fw
+// Adicionado
 // Apagado
 313
 413
+pinto
 
-
-
-Minha vez de escrever algo
-
-Analise o que foi afetado.
+Minhas vez de alterar algo
+Verifique o quye foi modificado
