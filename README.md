@@ -3,16 +3,22 @@ mudanças de readme
 21
 
 1
-
+// Inserido
 412
 fw
 f
 f
-f
+// Apagado
 w
 fw
 fw
 fw
-1
+// Apagado
 313
 413
+
+
+
+Minha vez de escrever algo
+
+Analise o que foi afetado.
